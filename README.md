@@ -1,5 +1,5 @@
 ## Hi there! 👋 
-### I'm ![Lucas Cavalheiro](https://lgcavalheiro.netlify.app), a software developer based in Rio de Janeiro.
+### I'm [Lucas Cavalheiro](https://lgcavalheiro.netlify.app), a software developer based in Rio de Janeiro.
 - 🔭 I’m currently working on [JOBMAA - The job market analyzer](https://github.com/lgcavalheiro/JOBMAA)
 - 🌱 I’m currently learning pretty much anything/everything 🤣
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lgcavalheiro/)  
